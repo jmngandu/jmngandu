@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:HI everyone, AM JAMES WELCOME ALL
 This is jthreeglobally<br>
 
 
