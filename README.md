@@ -1,5 +1,5 @@
 # 💫 About Me:HI everyone, AM JAMES WELCOME ALL
-🔭 I’m currently working on open source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning machine learning<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
+🔭 I’m currently working on open source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning App developmebt<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
 
 
 ## 🌐 Socials:
