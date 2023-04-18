@@ -20,5 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jmngandu&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shareitsolutions.com%2Fblog%2Fwhat-is-kotlin%2F&psig=AOvVaw13lvZIOnKrTLT8J7n2hDIc&ust=1681905080486000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDuouyMtP4CFQAAAAAdAAAAABAE)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
