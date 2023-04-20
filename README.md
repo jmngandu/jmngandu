@@ -1,4 +1,4 @@
-# 💫[WELCOME ALL]<br>
+# 💫
 # ┌─[JM-NGANDU]<br>
 # └──╼ jthreeglobally<br>
 # └──╼ $ simba
