@@ -21,7 +21,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jmngandu&icon=0&color=0)](https://visitcount.itsvg.in)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ![image](https://user-images.githubusercontent.com/123395876/233422820-6c62b233-7bf2-4a15-87d3-0b582dc1bad0.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
