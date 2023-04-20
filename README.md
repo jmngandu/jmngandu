@@ -1,4 +1,5 @@
-# 💫 About Me:HI everyone, AM JAMES WELCOME ALL
+# 💫 About Me:HI everyone, AM JAMES WELCOME ALL ![image](https://user-images.githubusercontent.com/123395876/233422820-6c62b233-7bf2-4a15-87d3-0b582dc1bad0.png)
+
 <br>🔭 I’m currently working on open source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning App developmebt<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
 
 
