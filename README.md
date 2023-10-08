@@ -5,6 +5,9 @@
 # 💫 About Me:
 🔭 I’m currently Contributing to Hacktober Fest Open source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of React<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
 
+# checkout my badges :
+https://www.holopin.io/@jmngandu#badges
+<hr>
 
 
 ## 🌐 Socials:
