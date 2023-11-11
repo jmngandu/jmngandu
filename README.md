@@ -3,7 +3,7 @@
 # └──╼ $ welcome all and Explore 💫
 ![image](https://user-images.githubusercontent.com/123395876/233422820-6c62b233-7bf2-4a15-87d3-0b582dc1bad0.png)
 # 💫 About Me:
-🔭 I’m currently Contributing to Hacktober Fest Open source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of React<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
+🔭 I’m currently Contributing to opens source projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of React<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
 
 # checkout my badges :
 https://www.holopin.io/@jmngandu#badges
