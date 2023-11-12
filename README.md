@@ -28,5 +28,5 @@ https://www.holopin.io/@jmngandu#badges
 
 [![](https://visitcount.itsvg.in/api?id=jmngandu&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 [![An image of @jmngandu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jmngandu)](https://holopin.io/@jmngandu)
