@@ -24,9 +24,10 @@ https://www.holopin.io/@jmngandu#badges
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=jmngandu&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=jmngandu&icon=1&color=0)](https://visitcount.itsvg.in)
+
+
+[![](https://visitcount.itsvg.in/api?id=jmngandu&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 [![An image of @jmngandu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jmngandu)](https://holopin.io/@jmngandu)
