@@ -26,8 +26,6 @@ https://www.holopin.io/@jmngandu#badges
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-
 [![](https://visitcount.itsvg.in/api?id=jmngandu&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
