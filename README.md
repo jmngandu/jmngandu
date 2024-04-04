@@ -24,8 +24,6 @@ https://www.holopin.io/@jmngandu#badges
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">&lt;/&gt;<br>People should learn how to program because programming teaches us how to think<br>Console.log( bright future);</p>&mdash; JAMES NGANDU⚛️ (@jm_ngandu) <a href="https://twitter.com/jm_ngandu/status/1775904666301170069?ref_src=twsrc%5Etfw">April 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 [![](https://visitcount.itsvg.in/api?id=jmngandu&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
