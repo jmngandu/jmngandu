@@ -5,6 +5,8 @@
 # 💫 About Me:
 🔭 I’m currently Contributing to ReactJS projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of React<br>💬 Ask me about open source<br>⚡ Fun fact : Music 
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">&lt;/&gt;<br>People should learn how to program because programming teaches us how to think<br>Console.log( bright future);</p>&mdash; JAMES NGANDU⚛️ (@jm_ngandu) <a href="https://twitter.com/jm_ngandu/status/1775904666301170069?ref_src=twsrc%5Etfw">April 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # checkout my badges :
 https://www.holopin.io/@jmngandu#badges
 <hr>
