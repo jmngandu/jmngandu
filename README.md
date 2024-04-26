@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently Contributing to ReactJS projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of React<br>💬 Ask me about open source<br>⚡ Fun fact : Music
+🔭 I’m currently Contributing to ReactJS projects<br>👯 I’m looking to collaborate on web development<br>🌱 I’m doing some sort of ReactJS, React Native<br>💬 Ask me about open source<br>⚡ Fun fact : Music
 
 # checkout my badges :
 
