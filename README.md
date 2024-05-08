@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently Contributing to ReactJS projects<br>👯 I’m looking to collaborate on web development and mobile app dev<br>🌱 I’m doing some sort Kotlin and React Native<br>💬 Ask me about open source<br>⚡ Fun fact: Music
+🔭 I’m currently Contributing to ReactJS projects<br>👯 I’m looking to collaborate on web development and mobile app dev<br>🌱 I'm working on developing some cool native apps using React Native! 📱💻<br>💬 Ask me about open source<br>⚡ Fun fact: Music
 
 # checkout my badges :
 
