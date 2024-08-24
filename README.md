@@ -1,4 +1,4 @@
-# ┌─[JM-NGANDU]<br>
+# ┌─[JM_NGANDU]<br>
 
 # └──╼ [[PORTFOLIO](https://jmngandu.vercel.app/)]<br>
 
