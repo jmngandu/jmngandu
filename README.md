@@ -1,4 +1,4 @@
-# ┌─[JM_NGANDU]<br>
+# ┌─[MUKUVI]<br>
 
 # └──╼ [[PORTFOLIO](https://jmngandu.vercel.app/)]<br>
 
@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🔭 I'm currently contributing to ReactJS and NextJS projects. Excited to be part of the React community! 💻🚀<br>👯 I want to collaborate on web and mobile app development! Let's create something awesome together! 🌐📱<br>🌱 I'm working on developing some cool native apps using React Native! 📱💻<br>💬 Ask me about open source! Let's discuss the power of collaboration and contribution. 🌟<br>⚡ Fun fact: Music and coding in motion! 🎶💻 The harmony of beats and algorithms!
+🔭 I'm currently contributing to ReactJS and NextJS projects. I'm excited to be part of the React community! 💻🚀<br>👯 I want to collaborate on web and mobile app development! Let's create something awesome together! 🌐📱<br>🌱 I'm working on developing some cool native apps using React Native! 📱💻<br>💬 Ask me about open source! Let's discuss the power of collaboration and contribution. 🌟<br>⚡ Fun fact: Music and coding in motion! 🎶💻 The harmony of beats and algorithms!
 
 # checkout my badges :
 <div align="left">
