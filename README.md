@@ -41,19 +41,19 @@ https://www.holopin.io/@jmngandu#badges
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=jmngandu&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jmngandu&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmngandu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mukuvi&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mukuvi&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuvi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=jmngandu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mukuvi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=jmngandu&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mukuvi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 
